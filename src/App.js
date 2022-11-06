@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Carousel from './Components/Carousel'
+import CollectionsComp from './Components/CollectionsComp'
+import Footer from './Components/Footer'
+import Navbar from './Components/Navbar'
+import Numbers from './Components/Numbers'
+import PictureComp from './Components/PictureComp'
+import ProductsComp from './Components/ProductsComp'
+import SignUpComp from './Components/SignUpComp'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <Navbar />
+      <Carousel />
+      <Numbers />
+      <ProductsComp title={'Our Bestseller'} />
+      <CollectionsComp />
+      <PictureComp />
+      <ProductsComp title={'Our New Arrivals'} />
+      <ProductsComp title={'Our Timeless Collection'} />
+      <SignUpComp />
+      <Footer />
+    </>
+  )
 }
 
-export default App;
+export default App

@@ -1,0 +1,8 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+  width: auto;
+  z-index: 99;
+}
+.dropdown:hover {
+  border-bottom: 2px solid #d8ae55;
+}
