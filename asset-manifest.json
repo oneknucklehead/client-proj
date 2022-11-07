@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/client-proj/static/css/main.a4c78b5b.css",
+    "main.js": "/client-proj/static/js/main.862029f2.js",
+    "static/js/787.ac34fb11.chunk.js": "/client-proj/static/js/787.ac34fb11.chunk.js",
+    "static/media/statuette-3108045_1920.png": "/client-proj/static/media/statuette-3108045_1920.0c6442f9bc0f3887aaa0.png",
+    "static/media/idol-1834688_1920.jpg": "/client-proj/static/media/idol-1834688_1920.dd1843a94aad0454ed2a.jpg",
+    "static/media/lord-krishna-7366880_1920.jpg": "/client-proj/static/media/lord-krishna-7366880_1920.171d97fd091675a41ebe.jpg",
+    "static/media/pottery-4618917_1920.jpg": "/client-proj/static/media/pottery-4618917_1920.37b0871e4bd625afa197.jpg",
+    "static/media/buddha-4440349_1920.jpg": "/client-proj/static/media/buddha-4440349_1920.8abbee785ce22d2e1974.jpg",
+    "static/media/ganesh-5508585_1920.jpg": "/client-proj/static/media/ganesh-5508585_1920.fe4f190e5e291c078b6e.jpg",
+    "static/media/logo.jpg": "/client-proj/static/media/logo.862b9ab6357fb7264077.jpg",
+    "static/media/profile.jpg": "/client-proj/static/media/profile.f39eccf290334e70c6e9.jpg",
+    "index.html": "/client-proj/index.html",
+    "main.a4c78b5b.css.map": "/client-proj/static/css/main.a4c78b5b.css.map",
+    "main.862029f2.js.map": "/client-proj/static/js/main.862029f2.js.map",
+    "787.ac34fb11.chunk.js.map": "/client-proj/static/js/787.ac34fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c78b5b.css",
+    "static/js/main.862029f2.js"
+  ]
+}
