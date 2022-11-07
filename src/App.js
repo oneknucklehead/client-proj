@@ -6,6 +6,7 @@ import Navbar from './Components/Navbar'
 import Numbers from './Components/Numbers'
 import PictureComp from './Components/PictureComp'
 import ProductsComp from './Components/ProductsComp'
+import ReviewSection from './Components/ReviewSection'
 import SignUpComp from './Components/SignUpComp'
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <PictureComp />
       <ProductsComp title={'Our New Arrivals'} />
       <ProductsComp title={'Our Timeless Collection'} />
+      <ReviewSection />
       <SignUpComp />
       <Footer />
     </>

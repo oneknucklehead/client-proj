@@ -6,7 +6,7 @@ const CollectionsComp = () => {
     <>
       <div className='flex gap-2 m-5'>
         <div className='m-auto'>
-          <div>Shop by collection</div>
+          <div className='text-4xl my-5 text-primary'>Shop by collection</div>
           <div className='flex flex-wrap gap-10'>
             <Collection />
             <Collection />

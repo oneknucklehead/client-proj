@@ -10,7 +10,7 @@ const ProductsComp = (props) => {
   return (
     <>
       <div className='flex'>
-        <div className='p-5 m-auto'>
+        <div className='md:p-5 m-auto'>
           <p className='text-4xl my-5 text-primary'>{props.title}</p>
           {/* <div> */}
           <div class='flex justify-center flex-wrap gap-3'>

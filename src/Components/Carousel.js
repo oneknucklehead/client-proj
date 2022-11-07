@@ -29,7 +29,7 @@ const Carousel = () => {
               </h5>
               <h5 class='text-xl'>u will get 2,000 discount</h5>
               <div className='border mt-5 border-secondary w-fit p-1 rounded'>
-                <button className='btn text-black font-bold bg-secondary px-10 py-1  rounded'>
+                <button className='btn text-black font-bold bg-secondary p-2 md:px-10 py-1  rounded'>
                   Go to the page
                 </button>
               </div>
@@ -44,7 +44,7 @@ const Carousel = () => {
               </h5>
               <h5 class='text-xl'>u will get 2,000 discount</h5>
               <div className='border mt-5 border-secondary w-fit p-1 rounded'>
-                <button className='btn text-black font-bold bg-secondary px-10 py-1  rounded'>
+                <button className='btn text-black font-bold bg-secondary p-2 md:px-10 py-1  rounded'>
                   Go to the page
                 </button>
               </div>
@@ -59,7 +59,7 @@ const Carousel = () => {
               </h5>
               <h5 class='text-xl'>u will get 2,000 discount</h5>
               <div className='border mt-5 border-secondary w-fit p-1 rounded'>
-                <button className='btn text-black font-bold bg-secondary px-10 py-1 rounded'>
+                <button className='btn text-black font-bold bg-secondary p-2 md:px-10 py-1 rounded'>
                   Go to the page
                 </button>
               </div>
